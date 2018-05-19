@@ -1226,6 +1226,7 @@
             0
           ]
         ],
+        "name": "model_1",
         "output_layers": [
           [
             "conv2d_9",
